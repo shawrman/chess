@@ -1,0 +1,4 @@
+﻿  Controller.cpp
+C:\Users\User\chess\chess\Controller.cpp(69,81): warning C4805: '==': unsafe mix of type 'int' and type 'bool' in operation
+  LINK : C:\Users\User\chess\chess\Debug\chess.exe not found or not built by the last incremental link; performing full link
+  chess.vcxproj -> C:\Users\User\chess\chess\Debug\chess.exe
